@@ -1,4 +1,4 @@
 # gevpro-week2
 # Richard Neyhoff
 
-Mooie depository met een informatief bericht
+Mooie repository met een informatief bericht
